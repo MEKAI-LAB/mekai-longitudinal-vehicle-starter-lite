@@ -1,6 +1,8 @@
-# MEKAI Longitudinal Vehicle Starter Lite
+# MATLAB / Simulink Longitudinal Vehicle Dynamics Starter Lite
 
-Free MATLAB / Simulink community edition for longitudinal vehicle dynamics and speed-control prototyping.
+Free MATLAB / Simulink starter model for longitudinal vehicle dynamics, automotive speed-control prototyping, and early controls studies.
+
+Built by [MEKAI](https://mekailab.com), this lite release is the public discovery layer for a wider commercial engineering product line.
 
 ## Latest Update
 
@@ -14,7 +16,9 @@ Current product page:
 
 - https://mekailab.com/engineering/longitudinal-vehicle-starter
 
-This repository is the public discovery layer of a wider MEKAI engineering product line. It is built for:
+## Why This Repo Exists
+
+This repository is built for:
 
 - MATLAB Central File Exchange visibility
 - Add-On Explorer discovery
@@ -63,6 +67,10 @@ See [UPGRADE.md](UPGRADE.md) for the commercial direction.
 ## Release Notes
 
 See [CHANGELOG.md](CHANGELOG.md) for the current release note.
+
+## Search-Friendly Summary
+
+If you are looking for a MATLAB / Simulink automotive model starter for longitudinal dynamics, speed tracking, or faster controls prototyping, this is the MEKAI public lite version.
 
 ## Important Note
 
